@@ -1,11 +1,9 @@
 <h1 align="center">Hi🖐️, I'm Md Delwar Hossen Asik</h1>
 <h3 align="center">A Passionate Full Stack Developer.</h3>
 <h1 align="center">Connect with Me</h1>
-
-<p align="center">
+<!-- <p align="center">
   <img src="https://github.com/your-username/your-repository/raw/main/assets/social-media-icons.gif" alt="Social Media Icons">
-</p>
-
+</p> -->
 <p align="center">
   <a href="https://linkedin.com/in/dhasikdev">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
@@ -19,13 +17,10 @@
 </p>
 
 
-
-
-
 <h1 align="center">Connect with Me</h1>
 
 <p align="center">
-  <img src="https://github.com/your-username/your-repository/raw/main/assets/fancy-social-media-icons.gif" alt="Fancy Social Media Icons">
+  <img src="https://github.com/your-username/your-repository/raw/main/assets/social-media-icons.gif" alt="Social Media Icons">
 </p>
 
 <p align="center">
@@ -34,13 +29,13 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/your-username">
-    <img src="https://github.com/your-username/your-repository/raw/main/assets/linkedin-icon.gif" alt="LinkedIn">
+    <img src="https://raw.githubusercontent.com/your-username/your-repository/main/assets/linkedin-icon.gif" alt="LinkedIn">
   </a>
   <a href="https://www.facebook.com/your-username">
-    <img src="https://github.com/your-username/your-repository/raw/main/assets/facebook-icon.gif" alt="Facebook">
+    <img src="https://raw.githubusercontent.com/your-username/your-repository/main/assets/facebook-icon.gif" alt="Facebook">
   </a>
   <a href="https://www.youtube.com/c/your-channel">
-    <img src="https://github.com/your-username/your-repository/raw/main/assets/youtube-icon.gif" alt="YouTube">
+    <img src="https://raw.githubusercontent.com/your-username/your-repository/main/assets/youtube-icon.gif" alt="YouTube">
   </a>
 </p>
 
@@ -56,10 +51,6 @@
 
 
 
-
-<p align="center">
-  <img src="https://github.com/your-username/your-repository/raw/main/assets/connecting.gif" alt="Connecting">
-</p>
 
 
 <p align="center">
