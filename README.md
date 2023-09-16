@@ -75,3 +75,8 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamasik&show_icons=true&locale=en&layout=compact" alt="iamasik" />[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=iamasik)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 
+
+
+[![snake gif](https://github.com/USERNAME/iamasik/blob/output/github-contribution-snake.gif)](https://github.com/iamasik)
+
+
