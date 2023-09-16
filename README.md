@@ -7,10 +7,6 @@
 </p>
 
 <p align="center">
-  Let's stay connected! You can find me on various social media platforms:
-</p>
-
-<p align="center">
   <a href="https://linkedin.com/in/dhasikdev">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
