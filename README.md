@@ -77,10 +77,3 @@
 <p></p>
 
 
-
-[![Activity](https://github.com/iamasik/iamasik/blob/output/github-contribution-grid-snake.svg)](https://github.com/iamasik)
-
-
-
-
-
