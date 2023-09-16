@@ -11,14 +11,14 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-username">
+  <a href="https://linkedin.com/in/dhasikdev">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://www.facebook.com/your-username">
+  <a href="https://fb.com/dhasikdev">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
   </a>
-  <a href="https://twitter.com/your-username">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+<a href="https://www.youtube.com/@TechTeeRexBD">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
   </a>
 </p>
 
