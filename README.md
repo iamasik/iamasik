@@ -1,5 +1,35 @@
 <h1 align="center">Hi🖐️, I'm Md Delwar Hossen Asik</h1>
 <h3 align="center">A Passionate Full Stack Developer.</h3>
+<h1 align="center">Connect with Me</h1>
+
+<p align="center">
+  <img src="https://github.com/your-username/your-repository/raw/main/assets/social-media-icons.gif" alt="Social Media Icons">
+</p>
+
+<p align="center">
+  Let's stay connected! You can find me on various social media platforms:
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/your-username">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://www.facebook.com/your-username">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
+  </a>
+  <a href="https://twitter.com/your-username">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+  </a>
+</p>
+
+<p align="center">
+  Feel free to reach out and connect with me on any of these platforms. I'm always excited to make new connections!
+</p>
+
+<p align="center">
+  <img src="https://github.com/your-username/your-repository/raw/main/assets/connecting.gif" alt="Connecting">
+</p>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamasik&label=Profile%20views&color=0e75b6&style=flat" alt="iamasik" /> </p>
 
