@@ -22,11 +22,11 @@
 
 
 
-<div align="center">
+<span align="center">
 ## 📧 Email Me 
 
 **delwarhossen.cse@gmail.com**
-</div>
+</span>
 
 
 
