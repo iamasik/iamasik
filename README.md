@@ -21,12 +21,10 @@
 
 
 
-
-<span align="center">
 ## 📧 Email Me 
 
 **delwarhossen.cse@gmail.com**
-</span>
+
 
 
 
