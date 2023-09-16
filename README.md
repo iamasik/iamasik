@@ -18,14 +18,14 @@
   </a>
 </p>
 
-<p align="center">
-  Feel free to reach out and connect with me on any of these platforms. I'm always excited to make new connections!
-</p>
 
-<h1 align="center">🚀 Connect with Me 🌟</h1>
+
+
+
+<h1 align="center">Connect with Me</h1>
 
 <p align="center">
-  <img src="https://github.com/your-username/your-repository/raw/main/assets/social-media-icons.gif" alt="Social Media Icons">
+  <img src="https://github.com/your-username/your-repository/raw/main/assets/fancy-social-media-icons.gif" alt="Fancy Social Media Icons">
 </p>
 
 <p align="center">
@@ -34,19 +34,28 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/your-username">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://github.com/your-username/your-repository/raw/main/assets/linkedin-icon.gif" alt="LinkedIn">
   </a>
   <a href="https://www.facebook.com/your-username">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
+    <img src="https://github.com/your-username/your-repository/raw/main/assets/facebook-icon.gif" alt="Facebook">
   </a>
   <a href="https://www.youtube.com/c/your-channel">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
+    <img src="https://github.com/your-username/your-repository/raw/main/assets/youtube-icon.gif" alt="YouTube">
   </a>
 </p>
 
 <p align="center">
-  🌟 Feel free to reach out and connect with me on any of these platforms. I'm always excited to make new connections! 🌟
+  Feel free to reach out and connect with me on any of these platforms. I'm always excited to make new connections!
 </p>
+
+<p align="center">
+  <img src="https://github.com/your-username/your-repository/raw/main/assets/connecting.gif" alt="Connecting">
+</p>
+
+
+
+
+
 
 <p align="center">
   <img src="https://github.com/your-username/your-repository/raw/main/assets/connecting.gif" alt="Connecting">
