@@ -24,11 +24,14 @@
 
 
 <p align="center">
-  <img src="https://github.com/your-username/your-repository/raw/main/assets/connecting.gif" alt="Connecting">
+  <img src="https://github.com/iamasik/LawHub/raw/main/assets/connecting.gif" alt="Connecting">
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=iamasik&style=flat-square&color=blue&label=Profile+Views" alt="Profile Views">
+</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iamasik&label=Profile%20views&color=0e75b6&style=flat" alt="iamasik" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=iamasik&label=Profile%20views&color=0e75b6&style=flat" alt="iamasik" /> </p>
 
 - 📫 How to reach me **delwarhossen.cse@gmail.com**
 
