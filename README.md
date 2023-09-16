@@ -17,36 +17,6 @@
 </p>
 
 
-<h1 align="center">Connect with Me</h1>
-
-<p align="center">
-  <img src="https://github.com/your-username/your-repository/raw/main/assets/social-media-icons.gif" alt="Social Media Icons">
-</p>
-
-<p align="center">
-  Let's stay connected! You can find me on various social media platforms:
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/your-username">
-    <img src="https://raw.githubusercontent.com/your-username/your-repository/main/assets/linkedin-icon.gif" alt="LinkedIn">
-  </a>
-  <a href="https://www.facebook.com/your-username">
-    <img src="https://raw.githubusercontent.com/your-username/your-repository/main/assets/facebook-icon.gif" alt="Facebook">
-  </a>
-  <a href="https://www.youtube.com/c/your-channel">
-    <img src="https://raw.githubusercontent.com/your-username/your-repository/main/assets/youtube-icon.gif" alt="YouTube">
-  </a>
-</p>
-
-<p align="center">
-  Feel free to reach out and connect with me on any of these platforms. I'm always excited to make new connections!
-</p>
-
-<p align="center">
-  <img src="https://github.com/your-username/your-repository/raw/main/assets/connecting.gif" alt="Connecting">
-</p>
-
 
 
 
