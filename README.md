@@ -22,13 +22,11 @@
 
 
 
-<p align="center">
+<div align="center">
 ## 📧 Email Me 
-</p>
-<p align="center">
-**delwarhossen.cse@gmail.com**
-</p>
 
+**delwarhossen.cse@gmail.com**
+</div>
 
 
 
