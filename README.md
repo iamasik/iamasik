@@ -23,12 +23,9 @@
 
 
 
-<p align="center">
-  <img src="https://github.com/iamasik/LawHub/raw/main/assets/connecting.gif" alt="Connecting">
-</p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=iamasik&style=flat-square&color=blue&label=Profile+Views" alt="Profile Views">
+  <img src="https://komarev.com/ghpvc/?username=iamasik&style=flat-square&color=green&label=ℙ𝕣𝕠𝕗𝕚𝕝𝕖+𝕍𝕀𝕖𝕨𝕤" alt="Profile Views">
 </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=iamasik&label=Profile%20views&color=0e75b6&style=flat" alt="iamasik" /> </p>
