@@ -23,9 +23,7 @@
 
 
 
-## 📧 Email Me
-
-Feel free to send me an email at **delwarhossen.cse@gmail.com**. I'm always excited to hear from you and discuss exciting ideas and projects.
+## 📧 Email Me: **delwarhossen.cse@gmail.com**
 
 
 
