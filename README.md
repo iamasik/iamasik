@@ -25,7 +25,7 @@
 
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=iamasik&style=flat-square&color=green&label=ᴘʀᴏꜰɪʟᴇ+ᴠɪᴇᴡꜱ" alt="Profile Views">
+  <img src="https://komarev.com/ghpvc/?username=iamasik&style=flat-square&color=blue&label=ᴘʀᴏꜰɪʟᴇ+ᴠɪᴇᴡꜱ" alt="Profile Views">
 </p>
 
 - 📫 How to reach me **delwarhossen.cse@gmail.com**
