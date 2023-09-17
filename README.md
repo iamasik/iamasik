@@ -30,10 +30,15 @@
 
 # Live Website
 
+# Live Websites
+
 | Website Name                                | Visit Live Website             |
 | ------------------------------------------ | ------------------------------ |
 | Smart Watch App Landing Page                | [Visit](https://iamasik.github.io/Smart_Watch_App_Landing_Page)   |
 | Fashion Store                               | [Visit](https://iamasik.github.io/Fashion_Store/)                 |
+| Travel Website                              | [Visit](https://iamasik.github.io/Travel_Website/)               |
+| Global Agency                               | [Visit](https://iamasik.github.io/Global_agency/)                |
+
 
 
 
