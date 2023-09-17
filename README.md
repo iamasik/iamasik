@@ -21,7 +21,7 @@
   <img src="https://komarev.com/ghpvc/?username=iamasik&style=flat-square&color=blue&label=ᴘʀᴏꜰɪʟᴇ+ᴠɪᴇᴡꜱ" alt="Profile Views">
 </p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=700&size=34&pause=1000&color=FFFFFF&multiline=true&width=435&lines=Live+Website)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=700&size=34&pause=1000&color=FFFFFF&multiline=true&width=435&lines=Live+Website)](https://github.com/iamasik/)
 
 
 ## 📧 Email Me 
