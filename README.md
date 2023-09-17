@@ -21,6 +21,7 @@
   <img src="https://komarev.com/ghpvc/?username=iamasik&style=flat-square&color=blue&label=ᴘʀᴏꜰɪʟᴇ+ᴠɪᴇᴡꜱ" alt="Profile Views">
 </p>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=700&size=34&pause=1000&color=FFFFFF&multiline=true&width=435&lines=Live+Website)](https://git.io/typing-svg)
 
 
 ## 📧 Email Me 
@@ -28,8 +29,8 @@
 **delwarhossen.cse@gmail.com**
 
 
+<img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=700&size=34&pause=1000&color=FFFFFF&multiline=true&width=435&lines=Live+Website" alt="java" width="435"/>
 
-https://readme-typing-svg.demolab.com?font=Roboto&weight=700&size=34&pause=1000&color=FFFFFF&multiline=true&width=435&lines=Live+Website
 | Website Name                                | Visit Live Website        |
 | ------------------------------------------ | ------------------------- |
 | Smart Watch App Landing Page                | [![Visit](https://img.shields.io/badge/Visit-Website-blue)](https://iamasik.github.io/Smart_Watch_App_Landing_Page)   |
