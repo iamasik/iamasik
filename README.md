@@ -28,8 +28,13 @@
 **delwarhossen.cse@gmail.com**
 
 
-# My Awesome Website
-[Visit the Live Website](https://iamasik.github.io/Smart_Watch_App_Landing_Page)
+# Live Website
+
+| Website Name                                | Visit Live Website             |
+| ------------------------------------------ | ------------------------------ |
+| Smart Watch App Landing Page                | [Visit](https://iamasik.github.io/Smart_Watch_App_Landing_Page)   |
+| Fashion Store                               | [Visit](https://iamasik.github.io/Fashion_Store/)                 |
+
 
 
 
