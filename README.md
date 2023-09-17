@@ -21,6 +21,12 @@
   <img src="https://komarev.com/ghpvc/?username=iamasik&style=flat-square&color=blue&label=ᴘʀᴏꜰɪʟᴇ+ᴠɪᴇᴡꜱ" alt="Profile Views">
 </p>
 
+| [![MailChimp](mailchimp-icon)](https://www.mailchimp.com) | [![Klaviyo](klaviyo-icon)](https://www.klaviyo.com) | [![HubSpot](hubspot-icon)](https://www.hubspot.com) |
+| --- | --- | --- |
+
+[mailchimp-icon]: https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg
+[klaviyo-icon]: https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg
+[hubspot-icon]: https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg
 
 
 
