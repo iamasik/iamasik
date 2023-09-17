@@ -30,8 +30,6 @@
 
 # Live Website
 
-# Live Websites
-
 | Website Name                                | Visit Live Website             |
 | ------------------------------------------ | ------------------------------ |
 | Smart Watch App Landing Page                | [Visit](https://iamasik.github.io/Smart_Watch_App_Landing_Page)   |
