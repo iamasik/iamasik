@@ -30,7 +30,7 @@
 
 # My Awesome Website
 
-<iframe src="[https://username.github.io/my-website](https://iamasik.github.io/Smart_Watch_App_Landing_Page/)" width="800" height="600"></iframe>
+<iframe src="https://iamasik.github.io/Smart_Watch_App_Landing_Page" width="800" height="600"></iframe>
 
 
 
