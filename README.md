@@ -1,3 +1,5 @@
+<div style="background-color: #000066; padding: 20px; color: white;">
+
 <h1 align="center">Hi🖐️, I'm Md Delwar Hossen Asik</h1>
 <h3 align="center">A Passionate Full Stack Web Developer.</h3>
 <h1 align="center">Connect with Me</h1>
@@ -71,4 +73,6 @@
 
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamasik&show_icons=true&locale=en&layout=compact" alt="iamasik" />[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=iamasik)](https://github.com/DenverCoder1/github-readme-streak-stats)
+
+</div>
 
