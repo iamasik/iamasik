@@ -29,8 +29,7 @@
 
 
 # My Awesome Website
-
-<iframe src="https://iamasik.github.io/Smart_Watch_App_Landing_Page" width="800" height="600"></iframe>
+[Visit the Live Website](https://iamasik.github.io/Smart_Watch_App_Landing_Page)
 
 
 
