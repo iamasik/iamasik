@@ -21,9 +21,7 @@
   <img src="https://komarev.com/ghpvc/?username=iamasik&style=flat-square&color=blue&label=ᴘʀᴏꜰɪʟᴇ+ᴠɪᴇᴡꜱ" alt="Profile Views">
 </p>
 
-| [![MailChimp](https://example.com/mailchimp-icon.png)](https://www.mailchimp.com) | [![Klaviyo](https://example.com/klaviyo-icon.png)](https://www.klaviyo.com) | [![HubSpot](https://example.com/hubspot-icon.png)](https://www.hubspot.com) |
-| --- | --- | --- |
-| MailChimp | Klaviyo | HubSpot |
+
 
 
 ## 📧 Email Me 
