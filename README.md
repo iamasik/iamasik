@@ -30,12 +30,15 @@
 
 # Live Website
 
-| Website Name                                | Visit Live Website             |
-| ------------------------------------------ | ------------------------------ |
-| Smart Watch App Landing Page                | [Visit](https://iamasik.github.io/Smart_Watch_App_Landing_Page)   |
-| Fashion Store                               | [Visit](https://iamasik.github.io/Fashion_Store/)                 |
-| Travel Website                              | [Visit](https://iamasik.github.io/Travel_Website/)               |
-| Global Agency                               | [Visit](https://iamasik.github.io/Global_agency/)                |
+# Live Websites
+
+| Website Name                                | Visit Live Website                 |
+| ------------------------------------------ | ---------------------------------- |
+| Smart Watch App Landing Page                | <a href="https://iamasik.github.io/Smart_Watch_App_Landing_Page" style="background-color: #4CAF50; color: white; padding: 5px 10px; text-decoration: none; border-radius: 5px;">Visit</a>   |
+| Fashion Store                               | <a href="https://iamasik.github.io/Fashion_Store/" style="background-color: #4CAF50; color: white; padding: 5px 10px; text-decoration: none; border-radius: 5px;">Visit</a>                 |
+| Travel Website                              | <a href="https://iamasik.github.io/Travel_Website/" style="background-color: #4CAF50; color: white; padding: 5px 10px; text-decoration: none; border-radius: 5px;">Visit</a>               |
+| Global Agency                               | <a href="https://iamasik.github.io/Global_agency/" style="background-color: #4CAF50; color: white; padding: 5px 10px; text-decoration: none; border-radius: 5px;">Visit</a>                |
+
 
 
 
